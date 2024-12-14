@@ -1,6 +1,6 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%red&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Raveesha+Ramitha+Lanarolle;Software+Engineer;Frontend+Developer;Backend+Developer;%40ahmadpiracha">
+<img src="https://readme-typing-svg.herokuapp.com?color=%red&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Raveesha+Ramitha+Lanarolle;Software+Engineer;Frontend+Developer;Backend+Developer">
 </p>
 
 <h3 align="center">A passionate frontend & backend developer from SriLanka</h3>

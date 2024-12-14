@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Raveesha Ramitha Lanarolle</h1>
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%red&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Raveesha+Ramitha+Lanarolle;Software+Engineer;Frontend+Developer;Backend+Developer;%40ahmadpiracha">
+</p>
+
 <h3 align="center">A passionate frontend & backend developer from SriLanka</h3>
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lanarolle" alt="lanarolle" /></a> </p>
 
@@ -12,6 +18,8 @@
 - 📫 How to reach me **raveesharamitha5461@gmail.com**
 
 - ⚡ Fun fact **I think always be happy!**
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

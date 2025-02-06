@@ -5,12 +5,19 @@
 
 <h3 align="center">A passionate frontend & backend developer from SriLanka</h3>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently learning about **deep learning**🥰<br>
+✔ I’m looking to collaborate with any **Open - Source Web projects**<br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br><br><br><br><br>
 
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lanarolle" alt="lanarolle" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lanarolle" alt="lanarolle" /></a> </p>
-
-- 🔭 I’m currently working on [phpalumini](https://github.com/lanarolle/phpalumini)
+- 🔭 I’m currently working on [E Shop](https://github.com/lanarolle/phpalumini)
 
 - 🌱 I’m currently learning **IT Degree**
 

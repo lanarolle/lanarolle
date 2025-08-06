@@ -2,6 +2,7 @@
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%red&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Raveesha+Ramitha+Lanarolle;Software+Engineer;Frontend+Developer;Backend+Developer">
 </p>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a0ace289-576c-4cae-b391-1f4b8d85e37b/deploy-status)](https://app.netlify.com/projects/mv-web/deploys)
 
 <h3 align="center">A passionate frontend & backend developer from SriLanka</h3>
 
